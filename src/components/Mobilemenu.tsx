@@ -1,6 +1,5 @@
 "use client";
 import React, { useState } from "react";
-import Mobilemenuicon from "./Mobilemenuicon";
 import { ModeToggle } from "./ui/toggle-button";
 import { AppWindow, Sidebar } from "lucide-react";
 import SIdebarContent from "./SIdebarContent";

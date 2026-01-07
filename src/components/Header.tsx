@@ -1,8 +1,6 @@
 import React from "react";
 import Logo from "./Logo";
-import Sidemenu from "./Sidemenu";
 import { ModeToggle } from "./ui/toggle-button";
-import CardNav from "./ui/CardNav";
 import { Navbar } from "./Navbar";
 import Mobilemenu from "./Mobilemenu";
 
