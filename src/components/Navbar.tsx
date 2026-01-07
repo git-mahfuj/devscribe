@@ -34,14 +34,14 @@ export const Navbar = () => {
 
   return (
     <CardNav
-    className="hidden lg:block z-[999]"
+    className="hidden lg:block z-999"
       logoAlt="Company Logo"
       baseColor="background"
       menuColor="secondary"
       buttonBgColor="secondary"
       buttonTextColor="#fff"
       ease="power3.out"
-      items={items}
+      items={[items]}
     />
   );
 };
